@@ -1,0 +1,25 @@
+# General
+.DS_Store
+.env
+.env.*
+.vscode/
+.idea/
+
+# Node
+node_modules/
+*.log
+gtm-intel-engine/frontend/dist/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+coverage/
+dist/
+build/
+
+# Local databases and caches
+gtm-intel-engine/backend/dev.db
