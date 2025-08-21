@@ -1,0 +1,4 @@
+{
+  "acme.com": {"domain": "acme.com", "size": "mid", "industry": "saas", "tech_stack": {"okta": false}},
+  "contoso.com": {"domain": "contoso.com", "size": "enterprise", "industry": "fintech", "tech_stack": {"aad": true}}
+}

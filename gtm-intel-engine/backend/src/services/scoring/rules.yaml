@@ -1,0 +1,16 @@
+weights:
+  size:
+    mid: 5
+    enterprise: 10
+  industry:
+    fintech: 6
+    healthcare: 6
+    saas: 5
+    other: 3
+  tech_okta: 6
+  tech_aad: 4
+  signal_auth_gaps: 8
+  signal_identity_risks: 7
+  hiring_initiatives: 5
+  freshness_days_half_life: 30
+formula: total = fit + intent + freshness
